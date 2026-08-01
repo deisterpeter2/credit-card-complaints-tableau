@@ -1,4 +1,4 @@
-# Credit Card Complaint Dashboard (Tableau)
+# Credit Card Complaints Dashboard (Tableau)
 
 ## Project Overview
 
