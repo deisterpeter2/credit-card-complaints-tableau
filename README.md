@@ -142,6 +142,8 @@ A heat map highlights complaint distribution, allowing users to quickly identify
 A ranked horizontal bar chart displays the complaint categories with the highest number of customer complaints.
 
 ---
+## Screenshots
+
 ### Dashboard
 
 ![Dashboard](images/Credit-Card-Complaint-Dashboard.jpg)
