@@ -166,7 +166,7 @@ credit-card-complaint-dashboard/
 │
 ├── README.md
 ├── images /
-    └── Credit_Card_Complaint_Dashboard.png
+    └── Credit-Card-Complaint-Dashboard.png
 └── data/
     └── Complaints.xlsx
 ```
